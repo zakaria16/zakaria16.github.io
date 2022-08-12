@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Home"
+    url: /
+  - title: "Projects"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Experience"
+    url: /experience/
+  - title: "Portfolio"
+    url: /portfolio/
