@@ -16,9 +16,8 @@
 title: Zakaria's profile 
 email: zakaria.m1662@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Zakaria is an electrical engineer and a programmer. He and currently working as a software engineer , developing softwares for self driving vehicles and biometric time attendance solution.
+  He is also working for a mining servicing company as an electrical engineer in charge of designing and installing automatic fire suppression system for mining machine.
 twitter_username: fatzak62
 github_username: zakaria16
 
@@ -34,8 +33,7 @@ minimal_mistakes_skin: "dark" #"default" , "air", "aqua", "contrast", "dark", "d
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+timezone: "Africa/Accra"
 include:
   - _pages
 
