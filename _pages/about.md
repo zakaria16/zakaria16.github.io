@@ -4,7 +4,7 @@ title: "About me"
 ---
 
 Zakaria is an electrical engineer and a programmer. He
-and currently working as a **software engineer** , developing softwares for self driving vehicles and biometric time attendance solution.
+is currently working as a **software engineer** , developing softwares for self driving vehicles and biometric time attendance solution.
 
 He is also working for a mining servicing company as an **electrical engineer** in charge of designing and installing automatic fire suppression system for mining machine.
 
