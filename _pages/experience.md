@@ -6,8 +6,10 @@ title: "Training and Experience"
 <small>AUGUST 2021-PRESENT</small>
 SOFTWARE ENGINEER
 IBIT SOFT LTD - Accra, Greater Accra
-: In charge of software development for
-- Autonomous driving cars for major international brands. main programing language used: C/C++. protocol used: Some/IP, UBUS, UDP and TCPIP and tools like: make, cmake, docker, GitLab CI, SonarQube etc.  worked with team members around the world in agile approach
+: In charge of developing, testing and reviewing software for:
+- MOIA autonomous Volkswagen ID.Buzz vehicles in collaboration with cbb software GmbH Germany.
+  - Main programing language used: modern C/C++ (cpp17 and above).
+  - Protocol used: Some/IP, UBUS, UDP and TCPIP and tools like: make, cmake, docker, GitLab CI, SonarQube etc. worked with team members around the world in agile approach.
 - Biometric time attendance solution
 
 ---
